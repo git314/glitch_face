@@ -3,7 +3,7 @@ import os
 
 setup(
     name="glitch_face",
-    version="0.0.2",
+    version="0.0.3",
     license="GPL",
     description="Face anon with pixelation and glitch",
     author="git314",
