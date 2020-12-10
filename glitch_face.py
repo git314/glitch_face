@@ -46,19 +46,11 @@ def main(b, o, s):
         inspired by the glitch_this library
         """
         (h, w) = image.shape[:2]
-        if h < 1:
-            print("nooooo: " + str(h))
-        else:
-            print(str(h))
 
         start_y = int(np.random.randint(0, h, size = 1))
-        print("start_y")
         chunk_height = np.random.randint(1, int(h/4))
-        print("chunk_height")
         chunk_height = min(chunk_height, h - start_y)
-        print("chunk_height")
         stop_y = int(start_y + chunk_height)
-        print("stop_y")
         switcher = np.random.choice([True,False])
         if switcher == True:
             start_x = offset

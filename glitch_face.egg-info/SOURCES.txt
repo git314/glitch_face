@@ -1,3 +1,4 @@
+README.md
 glitch_face.py
 setup.py
 glitch_face.egg-info/PKG-INFO
