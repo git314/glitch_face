@@ -15,6 +15,8 @@ Anonymize face with pixilation and glitching.
 > glitch_face
 ```
 
+![glitch_face anon](img/output.gif)
+
 ```
 glitch_face --help
 Usage: glitch_face [OPTIONS]
