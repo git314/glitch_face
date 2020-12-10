@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: glitch-face
+Version: 0.0.1
+Summary: Face anon with pixelation and glitch
+Home-page: https://github.com/git314/glitch_face
+Author: git314
+Author-email: git314@tutanota.com
+License: GPL
+Download-URL: https://github.com/git314/glitch_face/releases/tag/0.0.1
+Description: UNKNOWN
+Keywords: glitch,facial,detection,face,anonymity,anonymous,blur face,pixelate face
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6

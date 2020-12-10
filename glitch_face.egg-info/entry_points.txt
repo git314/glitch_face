@@ -1,0 +1,4 @@
+
+      [console_scripts]
+      glitch_face=glitch_face:main
+      

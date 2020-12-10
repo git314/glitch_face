@@ -1,0 +1,8 @@
+glitch_face.py
+setup.py
+glitch_face.egg-info/PKG-INFO
+glitch_face.egg-info/SOURCES.txt
+glitch_face.egg-info/dependency_links.txt
+glitch_face.egg-info/entry_points.txt
+glitch_face.egg-info/requires.txt
+glitch_face.egg-info/top_level.txt
